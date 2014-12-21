@@ -17,7 +17,8 @@ the basic run-down of the precess was:
 - attach subject to "data"
 - bind the y_train and y_test together to a "activity" vector
 - attach activity to "data"
-============================================================================================
+
+
 
 
 now that we have the entire data set ready, we needed to extract the relevant variables - i.e all those who measure the mean and SD.  
